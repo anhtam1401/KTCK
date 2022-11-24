@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880332936119",
+    "firebase_url": "https://cuoiky-3652a-default-rtdb.firebaseio.com",
+    "project_id": "cuoiky-3652a",
+    "storage_bucket": "cuoiky-3652a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880332936119:android:3680973ccab8986b6d4e32",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880332936119-lddupus291bkkf2ftcnje8lndo7sne3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMR3drt3KC1kjJdqV6w4_gqpO-LWKK02Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880332936119-lddupus291bkkf2ftcnje8lndo7sne3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
